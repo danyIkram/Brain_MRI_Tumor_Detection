@@ -36,7 +36,7 @@ print("app link", public_url)
 ## Model Used
 
 The model used in this project was trained in my repository:
-🔗 Model_Brain_MRI_Tumor_Detection(https://github.com/danyIkram/Model_Brain_MRI_Tumor_Detection)
+🔗 Model_Brain_MRI_Tumor_Detection : (https://github.com/danyIkram/Model_Brain_MRI_Tumor_Detection)
 
 ---
 
